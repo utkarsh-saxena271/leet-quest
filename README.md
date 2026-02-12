@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0125-valid-palindrome) |
 | [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

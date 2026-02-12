@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3721-longest-balanced-subarray-ii) |
+## String
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->

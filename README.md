@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0799-champagne-tower](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0799-champagne-tower) |
 <!---LeetCode Topics End-->

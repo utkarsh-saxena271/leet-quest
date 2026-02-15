@@ -20,7 +20,7 @@ public:
         int mid = nodeVec.size()/2;
         int count = 0;
         ListNode* temp2 = head;
-        while(count != mid){
+        while(count < mid){
             temp2 = temp2->next;
             count++;
         }

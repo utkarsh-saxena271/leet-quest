@@ -11,21 +11,30 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* temp = head;
-        vector<int> nodeVec;
-        while(temp != NULL){
-            nodeVec.push_back(temp -> val);
-            temp = temp->next;
-        }
-        int mid = nodeVec.size()/2;
-        int count = 0;
-        ListNode* temp2 = head;
-        while(count < mid){
-            temp2 = temp2->next;
-            count++;
-        }
+    // Brute-force
+        // ListNode* temp = head;
+        // vector<int> nodeVec;
+        // while(temp != NULL){
+        //     nodeVec.push_back(temp -> val);
+        //     temp = temp->next;
+        // }
+        // int mid = nodeVec.size()/2;
+        // int count = 0;
+        // ListNode* temp2 = head;
+        // while(count < mid){
+        //     temp2 = temp2->next;
+        //     count++;
+        // }
+        // return temp2;
+        
+    // Slow Fast ptr
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-
-        return temp2;
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
     }
 };

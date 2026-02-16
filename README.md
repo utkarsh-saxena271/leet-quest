@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [3719-longest-balanced-subarray-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0567-permutation-in-string) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |

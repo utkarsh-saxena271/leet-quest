@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->

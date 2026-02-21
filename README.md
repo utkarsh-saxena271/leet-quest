@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0138-copy-list-with-random-pointer) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0206-reverse-linked-list) |

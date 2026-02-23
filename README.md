@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0059-spiral-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0496-next-greater-element-i) |

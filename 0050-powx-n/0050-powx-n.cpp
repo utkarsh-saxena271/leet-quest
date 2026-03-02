@@ -1,16 +1,17 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if(n == 0) return 1.0;
-        if(n == 1) return x;
-
-        if(n < 0) {
-            return 1.0/pow(x, -1*(n));
+        long num = n;
+        if(num == 0) return 1.0;
+        if(num == 1) return x;
+    
+        if(num < 0) {
+            return 1.0/pow(x, -1*(num));
         }
-        return pow(x,n);
+        return pow(x,num);
 
     }
-    double pow(double x, int n) {
+    double pow(double x, long n) {
         if(n == 0) return 1.0;
         if(n == 1) return x;
         

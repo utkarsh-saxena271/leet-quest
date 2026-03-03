@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3714-longest-balanced-substring-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0704-binary-search/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3719-longest-balanced-subarray-i) |
@@ -145,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
+| [1441-build-an-array-with-stack-operations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming

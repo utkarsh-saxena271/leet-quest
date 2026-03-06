@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3794-reverse-string-prefix) |
 ## Stack
 | Problem Name | Difficulty |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

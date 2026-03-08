@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0162-find-peak-element/) | Medium |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0401-binary-watch) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0078-subsets/) | Medium |
 | [0401-binary-watch](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0401-binary-watch) |
 ## Doubly-Linked List
 | Problem Name | Difficulty |

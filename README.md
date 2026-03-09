@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3714-longest-balanced-substring-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3721-longest-balanced-subarray-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
 | [0799-champagne-tower](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0799-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

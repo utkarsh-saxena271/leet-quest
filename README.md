@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0693-binary-number-with-alternating-bits) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |

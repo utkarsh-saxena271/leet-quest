@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0142-linked-list-cycle-ii) |

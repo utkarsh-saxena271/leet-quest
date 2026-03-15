@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1622-fancy-sequence](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

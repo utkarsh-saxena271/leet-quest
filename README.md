@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Binary Search Tree
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0761-special-binary-string) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0059-spiral-matrix-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |

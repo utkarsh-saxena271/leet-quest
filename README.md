@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2906-construct-product-matrix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1622-fancy-sequence](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Bit Manipulation

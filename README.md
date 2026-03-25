@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0704-binary-search/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0761-special-binary-string) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Matrix

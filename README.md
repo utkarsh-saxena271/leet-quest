@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |

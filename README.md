@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
+| [0263-ugly-number](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0263-ugly-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1622-fancy-sequence](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1622-fancy-sequence/) | Hard |

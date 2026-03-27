@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3714-longest-balanced-substring-ii) |
 | [3794-reverse-string-prefix](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3794-reverse-string-prefix) |
+| [3856-trim-trailing-vowels](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |

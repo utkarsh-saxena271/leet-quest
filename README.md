@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0258-add-digits/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0263-ugly-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0258-add-digits/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -7,19 +7,19 @@ public:
         return ans;
     }
     void sum(vector<int>& candidates, int target, int idx,
-             vector<vector<int>>& ans
-             , vector<int>& ds) {
-        if(target< 0) return;
+             vector<vector<int>>& ans, vector<int>& ds) {
         if (idx == candidates.size()) {
             if (target == 0) {
                 ans.push_back(ds);
             }
             return;
         }
-        ds.push_back(candidates[idx]);
-        int c = candidates[idx];
-        sum(candidates, target - c, idx,ans, ds);
-        ds.pop_back();
-        sum(candidates, target, idx+1,ans, ds);
+        if (candidates[idx] <= target) {
+            ds.push_back(candidates[idx]);
+            sum(candidates, target - candidates[idx], idx, ans, ds);
+            ds.pop_back();
+        }
+
+        sum(candidates, target, idx + 1, ans, ds);
     }
 };

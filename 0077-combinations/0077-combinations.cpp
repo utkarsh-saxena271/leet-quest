@@ -6,7 +6,7 @@ public:
             ans.push_back(ds);
             return;
         }
-        for (int j = i; j < nums.size(); j++) {
+        for (int j = i; j <= nums.size()-k; j++) {
             ds.push_back(nums[j]);
             findCombs(nums, k - 1, j + 1, ds, ans);
             ds.pop_back();

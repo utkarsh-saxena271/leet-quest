@@ -4,6 +4,7 @@ public:
                    vector<vector<int>>& ans) {
         if (k == 0) {
             ans.push_back(ds);
+            return;
         }
         for (int j = i; j < nums.size(); j++) {
             if (j > i && nums[j] == nums[j - 1])

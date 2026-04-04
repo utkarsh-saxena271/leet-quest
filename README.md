@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0509-fibonacci-number/) | Easy |
 | [0799-champagne-tower](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0799-champagne-tower) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
@@ -425,5 +427,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

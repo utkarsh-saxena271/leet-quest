@@ -7,8 +7,6 @@ public:
             return;
         }
         for (int j = i; j < nums.size(); j++) {
-            if (j > i && nums[j] == nums[j - 1])
-                continue;
             ds.push_back(nums[j]);
             findCombs(nums, k - 1, j + 1, ds, ans);
             ds.pop_back();

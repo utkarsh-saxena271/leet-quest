@@ -8,7 +8,7 @@ public:
             else if(c == 'R') horizontal++;
             else if(c == 'L') horizontal--;
         }
-        if(vertical == horizontal) return true;
+        if(vertical == 0 && horizontal == 0) return true;
         return false;
     }
 };

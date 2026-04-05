@@ -1,14 +1,14 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int up = 0, down = 0, left = 0, right = 0;
+        int vertical = 0, horizontal = 0;
         for(char c : moves){
-            if(c == 'U') up++;
-            else if(c == 'D') down++;
-            else if(c == 'R') right++;
-            else if(c == 'L') left++;
+            if(c == 'U') vertical++;
+            else if(c == 'D') vertical--;
+            else if(c == 'R') horizontal++;
+            else if(c == 'L') horizontal--;
         }
-        if((up == down) && (left == right)) return true;
+        if(vertical == horizontal) return true;
         return false;
     }
 };

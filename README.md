@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0704-binary-search/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1910-remove-all-occurrences-of-a-substring) |

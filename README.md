@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0567-permutation-in-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0383-ransom-note/) | Easy |
 | [0443-string-compression](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0567-permutation-in-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration

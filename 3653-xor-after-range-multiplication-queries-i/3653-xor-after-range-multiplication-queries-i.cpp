@@ -4,8 +4,8 @@ public:
         long long MOD = 1000000007;
         for(int i = 0; i < queries.size(); i++){
             int idx = queries[i][0];
-            while(idx<=queries[i][1]){
-                nums[idx] = (1LL * nums[idx]*queries[i][3]) % MOD;
+            while(idx <= queries[i][1]){
+                nums[idx] = (1LL * nums[idx] * queries[i][3]) % MOD;
                 idx+=queries[i][2];
             }
         }

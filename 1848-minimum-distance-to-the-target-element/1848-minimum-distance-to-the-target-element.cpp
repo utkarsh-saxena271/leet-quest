@@ -5,6 +5,7 @@ public:
         for(int i = 0; i < nums.size(); i++){
             if(nums[i] == target){
                 ans = min(ans, abs(i-start));
+                if(ans == 0) return ans;
             }
         }
         return ans;

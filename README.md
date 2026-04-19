@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0704-binary-search/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarsh-saxena271/leet-quest/tree/master/1382-balance-a-binary-search-tree) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0876-middle-of-the-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/utkarsh-saxena271/leet-quest/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/utkarsh-saxena271/leet-quest/tree/master/3794-reverse-string-prefix) |

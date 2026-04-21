@@ -8,16 +8,8 @@ public:
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(matrix[i][j] == 0){
-                    // row
-                    for (int col = 0; col < n; col++) {
-                        if (matrix[i][col] != 0)
-                            rows[i] = 1;
-                    }
-                    // cols
-                    for (int row = 0; row < m; row++) {
-                        if (matrix[row][j] != 0)
-                            cols[j] = 1;
-                    }
+                    rows[i] = 1;
+                    cols[j] = 1;
                 }
             }
         }

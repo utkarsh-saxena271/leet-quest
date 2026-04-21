@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0046-permutations/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0090-subsets-ii/) | Medium |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0142-linked-list-cycle-ii) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/utkarsh-saxena271/leet-quest/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |

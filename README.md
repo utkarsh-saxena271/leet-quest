@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0090-subsets-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0164-maximum-gap) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0118-pascals-triangle/) | Easy |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0509-fibonacci-number/) | Easy |
 | [0799-champagne-tower](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0799-champagne-tower) |

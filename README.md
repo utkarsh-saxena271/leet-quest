@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0443-string-compression) |

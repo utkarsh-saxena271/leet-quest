@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0496-next-greater-element-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0344-reverse-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/utkarsh-saxena271/leet-quest/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/utkarsh-saxena271/leet-quest/tree/master/0233-number-of-digit-one) |
